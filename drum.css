@@ -1,0 +1,50 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(red,yellow);
+}
+h1{
+    font-size: 100px;
+    color: rgb(32, 128, 0);
+    text-shadow: 1px 0px white;
+}
+.drum{
+    margin: 10px;
+    height: 150px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 60px;
+    line-height: 2;
+    font-weight: 900;
+    color: black;
+    text-shadow: 2px 0px white;
+    
+    
+}
+.w{
+    background-image: url(w.jpg);
+}
+.a{
+    background-image: url(a.jpg);
+}
+.s{
+    background-image: url(s.jpg);
+}
+.d{
+    background-image: url(d.jpg);
+}
+.j{
+    background-image: url(j.jpg);
+}
+.k{
+    background-image: url(k.jpg);
+}
+.l{
+    background-image: url(l.jpg);
+}
+
+.pressed{
+    box-shadow: 1px 3px 4px 0 red;
+    opacity: 0.5;
+}
